@@ -1,0 +1,4 @@
+env_variables:
+  BASIC_AUTH_USERNAME: renan
+  BASIC_AUTH_PASSWORD: senha
+

@@ -12,6 +12,7 @@ RUN pip3 install -r requirements.txt
 
 COPY ./src /usr/src
 COPY ./models /usr/models
+COPY ./main.py /usr/main.py
 
 ENTRYPOINT [ "python3" ]
 
